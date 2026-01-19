@@ -1,0 +1,8 @@
+{
+  "name": "Together With My Love AI",
+  "description": "A romantic AI companion app with image generation, intelligent chat, location search, and voice synthesis.",
+  "requestFramePermissions": [
+    "microphone",
+    "geolocation"
+  ]
+}
